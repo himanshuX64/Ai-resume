@@ -1,0 +1,267 @@
+{
+  "job_roles": [
+    {
+      "job_title": "Data Scientist",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "SQL",
+        "Data Visualization",
+        "Deep Learning"
+      ],
+      "preferred_skills": [
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Docker",
+        "Spark",
+        "NLP",
+        "Computer Vision",
+        "Tableau",
+        "R"
+      ],
+      "min_experience": 2.0,
+      "education_required": "Bachelor's in Computer Science, Statistics, or related field"
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "REST API",
+        "Git",
+        "SQL",
+        "MongoDB"
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "Next.js",
+        "Docker",
+        "AWS",
+        "GraphQL",
+        "Redis",
+        "CI/CD",
+        "Jest",
+        "Webpack"
+      ],
+      "min_experience": 2.0,
+      "education_required": "Bachelor's in Computer Science or related field"
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "Model Deployment",
+        "Docker",
+        "Git",
+        "Linux"
+      ],
+      "preferred_skills": [
+        "Kubernetes",
+        "MLOps",
+        "AWS",
+        "FastAPI",
+        "Spark",
+        "Airflow",
+        "CI/CD",
+        "ONNX",
+        "Triton"
+      ],
+      "min_experience": 3.0,
+      "education_required": "Master's in Computer Science, AI, or related field"
+    },
+    {
+      "job_title": "Backend Developer",
+      "required_skills": [
+        "Python",
+        "FastAPI",
+        "Django",
+        "REST API",
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "Testing"
+      ],
+      "preferred_skills": [
+        "Redis",
+        "Celery",
+        "Kubernetes",
+        "AWS",
+        "Microservices",
+        "GraphQL",
+        "RabbitMQ",
+        "Elasticsearch"
+      ],
+      "min_experience": 2.0,
+      "education_required": "Bachelor's in Computer Science or related field"
+    },
+    {
+      "job_title": "DevOps Engineer",
+      "required_skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux",
+        "Git",
+        "AWS",
+        "Terraform",
+        "Monitoring",
+        "Scripting"
+      ],
+      "preferred_skills": [
+        "Ansible",
+        "Jenkins",
+        "Prometheus",
+        "Grafana",
+        "Python",
+        "Helm",
+        "ArgoCD",
+        "ELK Stack"
+      ],
+      "min_experience": 3.0,
+      "education_required": "Bachelor's in Computer Science or related field"
+    },
+    {
+      "job_title": "Frontend Developer",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "Git",
+        "Responsive Design",
+        "REST API",
+        "Testing"
+      ],
+      "preferred_skills": [
+        "Next.js",
+        "Redux",
+        "Tailwind CSS",
+        "Webpack",
+        "Jest",
+        "Cypress",
+        "GraphQL",
+        "Figma"
+      ],
+      "min_experience": 2.0,
+      "education_required": "Bachelor's in Computer Science or related field"
+    },
+    {
+      "job_title": "Data Engineer",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "ETL",
+        "Data Warehousing",
+        "Spark",
+        "Airflow",
+        "AWS",
+        "Git",
+        "Data Modeling"
+      ],
+      "preferred_skills": [
+        "Kafka",
+        "Snowflake",
+        "dbt",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Redshift",
+        "BigQuery"
+      ],
+      "min_experience": 2.0,
+      "education_required": "Bachelor's in Computer Science, Data Science, or related field"
+    },
+    {
+      "job_title": "Cloud Architect",
+      "required_skills": [
+        "AWS",
+        "Cloud Architecture",
+        "Terraform",
+        "Kubernetes",
+        "Networking",
+        "Security",
+        "CI/CD",
+        "Microservices",
+        "Docker"
+      ],
+      "preferred_skills": [
+        "Azure",
+        "GCP",
+        "Serverless",
+        "Lambda",
+        "CloudFormation",
+        "Service Mesh",
+        "Istio",
+        "Cost Optimization"
+      ],
+      "min_experience": 5.0,
+      "education_required": "Bachelor's in Computer Science or related field"
+    },
+    {
+      "job_title": "AI Research Scientist",
+      "required_skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Research",
+        "Mathematics",
+        "Statistics",
+        "NLP"
+      ],
+      "preferred_skills": [
+        "Computer Vision",
+        "Reinforcement Learning",
+        "Transformers",
+        "CUDA",
+        "JAX",
+        "Publications",
+        "Optimization",
+        "Distributed Training"
+      ],
+      "min_experience": 3.0,
+      "education_required": "PhD in Computer Science, AI, or related field"
+    },
+    {
+      "job_title": "Mobile Developer",
+      "required_skills": [
+        "React Native",
+        "JavaScript",
+        "Mobile Development",
+        "REST API",
+        "Git",
+        "iOS",
+        "Android",
+        "Testing",
+        "UI/UX"
+      ],
+      "preferred_skills": [
+        "Flutter",
+        "Swift",
+        "Kotlin",
+        "Firebase",
+        "Push Notifications",
+        "App Store Deployment",
+        "Redux",
+        "TypeScript"
+      ],
+      "min_experience": 2.0,
+      "education_required": "Bachelor's in Computer Science or related field"
+    }
+  ]
+}
